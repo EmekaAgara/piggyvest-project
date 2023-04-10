@@ -142,6 +142,7 @@ section{
 
 .s__button{
     background-color: transparent;
+    border: 1;
     border-width: 0.05rem;
     color: black;
     padding: 1rem 1.2rem;
@@ -151,7 +152,6 @@ section{
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    appearance: none;
 }
 
 .s__button img{
