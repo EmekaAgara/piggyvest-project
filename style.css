@@ -142,8 +142,7 @@ section{
 
 .s__button{
     background-color: transparent;
-    border: 1;
-    border-width: 0.05rem;
+    border: 0.05rem solid black;
     color: black;
     padding: 1rem 1.2rem;
     border-radius: .5rem;
